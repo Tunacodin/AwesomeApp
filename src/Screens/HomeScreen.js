@@ -111,7 +111,9 @@ export default function HomeScreen({navigation}) {
                           setSelectedIndex(selectedIndex + 1)
                       }}>
             <Image
-              style={{
+                          style={{
+                  
+                  
                 width: '100%',
                 resizeMode: 'contain',
                 flex: 1,
